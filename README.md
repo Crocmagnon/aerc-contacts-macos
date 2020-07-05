@@ -1,6 +1,9 @@
 # aerc-contacts
 
-Search macOS Contacts and output data for aerc email client
+Search macOS Contacts and output data for aerc email client.
+
+This is a fork of https://github.com/keith/contacts-cli/ which is released under MIT.
+This code is also released under the MIT license.
 
 ## Installation
 ```shell script
