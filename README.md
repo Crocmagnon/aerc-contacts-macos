@@ -1,3 +1,3 @@
-# aerc-contacts-cli
+# aerc-contacts
 
-A description of this package.
+Search macOS Contacts and output data for aerc email client
