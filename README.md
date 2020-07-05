@@ -21,3 +21,9 @@ aerc-contacts John Doe
 
 This will output all emails and contact names matching "John" and "Doe"
 in either the first name, last name or email fields.
+
+You should use it in your `aerc.conf`:
+
+```
+address-book-cmd=aerc-contacts %s
+```
