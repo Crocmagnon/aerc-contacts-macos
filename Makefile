@@ -6,10 +6,10 @@ build:
 	swift build -c release --disable-sandbox
 
 install: build
-	install ".build/release/aerc-contacts-cli" "$(bindir)"
+	install ".build/release/aerc-contacts" "$(bindir)"
 
 uninstall:
-	rm -rf "$(bindir)/aerc-contacts-cli"
+	rm -rf "$(bindir)/aerc-contacts"
 
 clean:
 	rm -rf .build
