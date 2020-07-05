@@ -7,6 +7,13 @@ Search macOS Contacts and output data for aerc email client
 make install
 ```
 
+OR
+
+```shell script
+brew tap crocmagnon/homebrew-formulae https://git.sr.ht/~crocmagnon/homebrew-formulae
+brew install aerc-contacts
+```
+
 ## Usage
 ```shell script
 aerc-contacts John Doe
