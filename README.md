@@ -13,7 +13,7 @@ make install
 OR
 
 ```shell script
-brew tap crocmagnon/homebrew-formulae https://git.sr.ht/~crocmagnon/homebrew-formulae
+brew tap crocmagnon/homebrew-formulae https://git.augendre.info/gaugendre/aerc-contacts-macos.git
 brew install aerc-contacts
 ```
 
